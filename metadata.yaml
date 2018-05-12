@@ -1,0 +1,31 @@
+_repo: Un-amour-vrai_14537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conan, Laure
+    aliases:
+    - Angers, Marie-Louise-Félicité
+    - Angers, Marie-Louise-Felicite
+    birthdate: 1845
+    deathdate: 1924
+    gutenberg_agent_id: '5568'
+    url: http://www.gutenberg.org/2009/agents/5568
+    wikipedia: http://en.wikipedia.org/wiki/Laure_Conan
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14537'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French-Canadian fiction'
+title: Un amour vrai
+url: http://www.gutenberg.org/ebooks/14537
